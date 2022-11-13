@@ -1,5 +1,5 @@
 # Introduction-to-Deep-Learning
-pada repositori ini terdapat source code dan dataset yang dapat digunakans sebagai bahan belajar untuk minggu ke 2 pembelajaran machine learning
+Pada repositori ini terdapat source code dan dataset yang dapat digunakan sebagai bahan belajar untuk minggu ke 2 pembelajaran machine learning
 Langkah-langkah penggunaan bahan belajar:
 1. Download dataset dengan nama '[W2]RPS'
 2. Ekstrak file tersebut
